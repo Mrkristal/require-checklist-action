@@ -1,4 +1,4 @@
-name: Require Checklist
+name: PR Checklist
 description: Ensure that any checklists in an issue/pull request are completed
 runs:
   using: docker
